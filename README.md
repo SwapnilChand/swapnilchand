@@ -19,5 +19,5 @@
 - 🤔 I’m looking for help with Getting Started with Research Papers and Robotics(Arduino and Softwares(ROS | openrobotics.org | OpenCog | Etc.))
 
 <p align="center">
-  <img src="https://github.com/SwapnilChand/swapnilchand/blob/main/okabe.gif" width="100">
+  <img src="https://github.com/SwapnilChand/swapnilchand/blob/main/okabe.gif">
 </p>
