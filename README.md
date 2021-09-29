@@ -4,6 +4,9 @@
 **I'm Swapnil**✨
 
 
+<p align="center">
+  <img src="https://github.com/SwapnilChand/swapnilchand/blob/main/okabe.gif">
+</p>
 
 - 🔭 I’m currently working on A HACKTOBERFEST OPENSOURCE REPO and A ML COURSE
 - 🌱 I’m currently learning : Python | MatplotLib | Pandas | SciKit | VSCode | Java | Android
@@ -17,7 +20,3 @@
 - ⚡ Fun fact: I ❤️️ Philosophy / Spirituality / Sci-Fi / Video Games / Chilling / Stories (Books/Videos/Audio, anything) / Music (Instruments / Softwares)
 - 👯 I’m looking to collaborate on : Open Source | ML | Robotics | Game Dev
 - 🤔 I’m looking for help with Getting Started with Research Papers and Robotics(Arduino and Softwares(ROS | openrobotics.org | OpenCog | Etc.))
-
-<p align="center">
-  <img src="https://github.com/SwapnilChand/swapnilchand/blob/main/okabe.gif">
-</p>
