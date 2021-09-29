@@ -18,4 +18,6 @@
 - 👯 I’m looking to collaborate on : Open Source | ML | Robotics | Game Dev
 - 🤔 I’m looking for help with Getting Started with Research Papers and Robotics(Arduino and Softwares(ROS | openrobotics.org | OpenCog | Etc.))
 
-![](swapnilchand/okabe.gif)
+<p align="center">
+  <img src="https://github.com/SwapnilChand/swapnilchand/blob/main/okabe.gif" width="100">
+</p>
