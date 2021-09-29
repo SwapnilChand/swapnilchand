@@ -1,7 +1,4 @@
-### Hi there 👋
-
-
-**I'm Swapnil**✨
+### Hi there 👋 **I'm Swapnil**✨
 
 
 <p align="center">
