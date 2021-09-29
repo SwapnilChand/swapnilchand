@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on A HACKTOBERFEST OPENSOURCE REPO and A ML COURSE
 - 🌱 I’m currently learning : Python|MatplotLib|Pandas|SciKit|VSCode|Java|Android
-<--- 👯 I’m looking to collaborate on ...
+<!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...--->
 - 💬 Ask me about :ML | OpenSource
 - 📫 How to reach me: [Twitter](https://twitter.com/Swapnil43128204)
