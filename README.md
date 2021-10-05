@@ -6,7 +6,7 @@
 </p>
 
 - 🔭 I’m currently working on [A HACKTOBERFEST OPENSOURCE REPO](https://github.com/SwapnilChand/awesome-tech-stories) and [YouTube](https://www.youtube.com/channel/UCDgPk6lU22AZcfXANXlDvGA)
-- 🌱 I’m currently learning : Python | MatplotLib | Pandas | SciKit | VSCode | Java | Android
+- 🌱 I’m currently learning : Python | MatplotLib | Pandas | SciKit | Tableau | VSCode | Java | Android
 - 💬 Ask me about : ML | OpenSource
 - 📫 How to reach me: [Twitter](https://twitter.com/SwapnilChand51)
   [Instagram](https://www.instagram.com/ig.swapnilchand/)
