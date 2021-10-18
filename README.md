@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [A HACKTOBERFEST OPENSOURCE REPO](https://github.com/SwapnilChand/awesome-tech-stories) and [YouTube](https://www.youtube.com/channel/UCDgPk6lU22AZcfXANXlDvGA)
 - 🌱 I’m currently learning : Python | MatplotLib | Pandas | SciKit | Tableau | VSCode | Java | Android
-- 💬 Ask me about : ML | OpenSource
-- 📫 How to reach me: [Twitter](https://twitter.com/SwapnilChand51)
-  [Instagram](https://www.instagram.com/ig.swapnilchand/)
-  [LinkedIn](https://www.linkedin.com/in/swapnil-chand-887aa117a/)
-  [dev.to](https://dev.to/swapnilchand)
+- 📫 How to reach me: [Twitter](https://twitter.com/SwapnilChand51) | 
+  [Instagram](https://www.instagram.com/ig.swapnilchand/) | 
+  [LinkedIn](https://www.linkedin.com/in/swapnil-chand-887aa117a/) | 
+  [dev.to](https://dev.to/swapnilchand) | 
+  [Medium](https://swapnilchand.medium.com/)
 
 - 😄 Pronouns: He / Him 🤦
 - ⚡ Fun fact: I ❤️️ Philosophy / Spirituality / Sci-Fi / Video Games / Chilling / Stories (Books/Videos/Audio, anything) / Music (Instruments / Softwares)
