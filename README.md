@@ -6,7 +6,7 @@
 </p>
 
 - 🔭 I’m currently working on [YouTube](https://www.youtube.com/channel/UCDgPk6lU22AZcfXANXlDvGA)
-- 🌱 I’m currently learning : Python | MatplotLib | Pandas | SciKit | Tableau | VSCode | Java | Android
+- 🌱 I’m currently learning : Python | MatplotLib | Pandas | SciKit | Tableau | VSCode 
 - 📫 How to reach me: [Twitter](https://twitter.com/SwapnilChand51) | 
   [Instagram](https://www.instagram.com/ig.swapnilchand/) | 
   [LinkedIn](https://www.linkedin.com/in/swapnil-chand-887aa117a/) | 
