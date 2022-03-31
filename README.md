@@ -14,5 +14,3 @@
 
 - 😄 Pronouns: He / Him 🤦
 - ⚡ Fun fact: I ❤️️ Philosophy / Spirituality / Sci-Fi / Video Games / Chilling / Stories (Books/Videos/Audio, anything) / Music (Instruments / Softwares)
-- 👯 I’m looking to collaborate on : Open Source | ML | Robotics | Game Dev
-- 🤔 I’m looking for help with Getting Started with Research Papers and Robotics(Arduino and Softwares(ROS | openrobotics.org | OpenCog | Etc.))
