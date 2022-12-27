@@ -1,7 +1,7 @@
 ### Hi there 👋 **I'm Swapnil**✨
 
-##https://lu.ma/Swapnil
-##https://swapnilchand.github.io
+## https://lu.ma/Swapnil
+## https://swapnilchand.github.io
 
 <p align="center">
   <img src="https://github.com/SwapnilChand/swapnilchand/blob/main/okabe.gif">
