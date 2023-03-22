@@ -7,7 +7,7 @@
   <img src="https://github.com/SwapnilChand/swapnilchand/blob/main/okabe.gif">
 </p>
 
-- 🌱 I’m currently learning : NLP | DSA
+- 🌱 I’m currently learning : Machine Learning and Data Science
 - 📫 How to reach me: [Twitter](https://twitter.com/SwapnilChand51) | 
   [Instagram](https://www.instagram.com/ig.swapnilchand/) | 
   [LinkedIn](https://www.linkedin.com/in/swapnil-chand-887aa117a/) | 
